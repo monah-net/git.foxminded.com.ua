@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Title was changed</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <h1>Hello World 1</h1>
     <br>
     <%
         for(String name : DatabaseFacade.getBooks()){
